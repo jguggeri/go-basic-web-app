@@ -7,6 +7,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.1] 01-02-2025
+
 - Initial scaffolding
   - Add `makefile` file
   - Add `.pre-commit-config.yaml` file
